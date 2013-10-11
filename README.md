@@ -36,6 +36,13 @@ Follow the instructions of the file:
 - Package Control.sublime-settings
 - Preferences.sublime-settings
 
+#####Python Enviroment
+
+`sudo chmod +x install-enviroment.sh`
+
+`./install-enviroment.sh`
+
+
 [1]
 
     sudo apt-get install git

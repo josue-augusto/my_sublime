@@ -3,7 +3,7 @@ My Sublime
 
 My personal configuration for python enviroment and sublime text 2 editor.
 
-#####Pre-Requisites:
+####Pre-Requisites:
 
 - Ubuntu
 
@@ -13,7 +13,7 @@ My personal configuration for python enviroment and sublime text 2 editor.
 
 - NodeJS [2]
 
-#####Installation:
+####Installation:
 
 ######Run install-sublime.sh:
 
@@ -36,7 +36,7 @@ Follow the instructions of the file:
 - Package Control.sublime-settings
 - Preferences.sublime-settings
 
-#####Python Enviroment
+######Python Enviroment
 
 `sudo chmod +x install-enviroment.sh`
 

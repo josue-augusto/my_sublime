@@ -6,3 +6,4 @@ subl &
 sleep 5
 # Preferences
 cp Preferences.sublime-settings ~/.config/sublime-text-3/Packages/User/
+cp Anaconda.sublime-settings ~/.config/sublime-text-3/Packages/User/

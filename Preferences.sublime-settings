@@ -35,8 +35,6 @@
         79,
         99
     ],
-    "word_wrap": true,
-    "wrap_width": 80,
 
     // Whitespace - no tabs, trimming, end files with \n
     "tab_size": 4,
@@ -90,6 +88,9 @@
     "close_windows_when_empty": false,
 
     // Do not try to detect the tab size from the opened file
-    "detect_indentation": false
+    "detect_indentation": false,
+	"update_check": false
 
 }
+
+

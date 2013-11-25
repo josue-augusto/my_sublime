@@ -1,7 +1,7 @@
 My Sublime
 ==========
 
-My personal configuration for python enviroment and sublime text 2 editor.
+My personal configuration for python enviroment and sublime text 3 editor.
 
 ####Requirements:
 
@@ -15,32 +15,32 @@ My personal configuration for python enviroment and sublime text 2 editor.
 
 ####Installation:
 
+######Simple and complete installaion
+`./install.sh`
+
+######Run install-requirements.sh:
+
+Install pre-requisites to plugins
+
+`./install-requirements.sh`
+
 ######Run install-sublime.sh:
 
-`sudo chmod +x install-sublime.sh`
+Install Sublime Text 3 with package control
 
 `./install-sublime.sh`
 
-######To test:
-
-`subl`
-
-######Install package-control
-
-Follow the instructions of the file:
-
-- install-package-control
-
-######Copy files to ~/.config/sublime-text-2/Packages/User/ :
-
-- Package Control.sublime-settings
-- Preferences.sublime-settings
-
 ######Python Enviroment
 
-`sudo chmod +x install-enviroment.sh`
+Install enviroment to programing Python
 
 `./install-enviroment.sh`
+
+######Run install-preferences.sh:
+
+My personal preference and plugins
+
+`./install-preferences.sh`
 
 
 [1]

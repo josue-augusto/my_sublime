@@ -1,18 +1,15 @@
 {
 	"installed_packages":
 	[
-		"AutoPEP8",
+		"Anaconda",
 		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"Jedi - Python autocompletion",
 		"LiveStyle",
 		"Markdown Preview",
-		"Package Control",
 		"SublimeGit",
 		"SublimeREPL",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"Unittest (python)"
+		"Tomorrow Color Schemes"
 	]
 }

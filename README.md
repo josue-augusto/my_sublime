@@ -36,9 +36,15 @@ Install enviroment to programing Python
 
 `./install-enviroment.sh`
 
+######Run install-plugins.sh:
+
+My personal plugins
+
+`./install-plugins.sh`
+
 ######Run install-preferences.sh:
 
-My personal preference and plugins
+My personal preference
 
 `./install-preferences.sh`
 
